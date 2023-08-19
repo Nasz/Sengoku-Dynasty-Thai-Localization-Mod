@@ -17,3 +17,5 @@
 + Noto Sans โดย [กูเกิล](https://fonts.google.com/noto)
 
 บัคที่พบในตอนนี้ ชื่อของตัวละครโจรที่สปอร์นมีบางครั้งแสดงเป็นภาษาต่างดาว
+
+Thank [matyalatte](https://github.com/matyalatte) for Modding Tools.
