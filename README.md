@@ -1,4 +1,4 @@
-# SengokuDynastyThaiLocalization
+# Sengoku Dynasty Thai Localization (Community Version)
 แปลไทยเกม เซนโกคุ ไดนาสตี้ 
 ## สถานะการแปล 21.58%
 **รองรับเกมเวอร์ชัน Early Access 0.1.2.0**
