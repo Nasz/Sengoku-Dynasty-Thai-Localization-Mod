@@ -10,7 +10,7 @@
 นำไฟล์ zSDThai_P.pak ไปวางใว้ในนั้น
 
 ###### วิธีถอนการติดตั้ง 
-ลบไฟล์ zSDThai_P.pak ใน steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\~mods ออก
+ลบไฟล์ zSDThai_P.pak ใน steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\\~mods ออก
 
 ###### โครงการม็อดไม่แสวงหาผลกำไรขอขอบคุณ
 + ศรีราชา และ Noto Sans Thai โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
