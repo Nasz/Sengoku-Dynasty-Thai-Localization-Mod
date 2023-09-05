@@ -1,6 +1,6 @@
 # Sengoku Dynasty Thai Localization (Community Version)
 แปลไทยเกม เซ็งโงกุ ไดนาสตี้ 
-## สถานะการแปล 32%
+## สถานะการแปล 33.51% (บิลท์ 20230905)
 **รองรับเกมเวอร์ชัน Early Access 0.1.2.0**
 
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/6ca9ef73-8ea9-40fb-afd8-edba379ef6a5)
@@ -15,8 +15,9 @@
 ลบไฟล์ zSDThai_P.pak ใน steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\\~mods ออก
 
 ###### โครงการม็อดไม่แสวงหาผลกำไรขอขอบคุณ
-+ ศรีราชา และ Noto Sans Thai โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
-+ Noto Sans โดย [กูเกิล](https://fonts.google.com/noto)
++ Sriracha (OFL) โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
++ Noto Sans Thai (OFL) โดย [กูเกิล](https://fonts.google.com/noto)
++ Droid Sans Thai (Apache 2.0) โดย [Steve Matterson](https://en.wikipedia.org/wiki/Droid_(typeface))
 
 ###### บัคที่พบในตอนนี้ 
 + ยังไม่พบบัคเพิ่มเติม
