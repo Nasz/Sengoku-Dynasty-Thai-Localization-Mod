@@ -439,6 +439,7 @@
         "GUI_MENU_NEWSAVE": "Create New Save",
         "GUI_MENU_CREATESERVER": "Create Server",
         "GUI_ACTION_CREATE_ITEM": "Create one {Item}; (Hold) Create max",
+        "GUI_MENU_CREATINGSERVER": "Creating Server...",
         "GUI_MENU_CREDITS": "Credits",
         "GUI_MENU_CROUCH": "Crouch",
         "GUI_SOW_REASON_FIELD_STATE": "Cultivate first",
