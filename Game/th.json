@@ -159,12 +159,12 @@
         "CPLX_HOUSE_SIMPLE_2DESC": "บ้านหลังเล็ก ๆ แบบเรียบง่ายที่สร้างบนฐานสี่เหลี่ยม เป็นที่พักอาศัยสำหรับคนหนึ่งคน สามารถวางของใช้ในบ้านได้ทั้งหมด เช่น เตียง เตาไฟอิโรริ ตะเกียง และคอนเทนเนอร์ส่วนตัว",
         "CPLX_HOUSE_STANDARD_1NAME": "บ้านขนาดมาตรฐาน",
         "CPLX_HOUSE_STANDARD_2DESC": "บ้านแบบเรียบง่ายที่สร้างบนฐานสี่เหลี่ยม เป็นที่พักอาศัยสำหรับคนหนึ่งคน สามารถวางของใช้ในบ้านได้ทั้งหมด เช่น เตียง เตาไฟอิโรริ ตะเกียง และคอนเทนเนอร์ส่วนตัว",
-        "CPLX_NO_STORAGE_ARMORY": "ไม่มีคลังอาวุธ",
-        "CPLX_NO_STORAGE_FOOD": "ไม่มีคลังอาหาร",
-        "CPLX_NO_STORAGE_GENERAL": "ไม่มีคลังเก็บของทั่วไป",
-        "CPLX_NO_STORAGE_ICE": "ไม่มีคลังน้ำแข็ง",
-        "CPLX_NO_STORAGE_WATER": "ไม่มีคลังเก็บน้ำ",
-        "CPLX_NO_STORAGE_WOOD": "ไม่มีคลังเก็บไม้",
+        "CPLX_NO_STORAGE_ARMORY": "ไม่มีอาคารเก็บอาวุธ",
+        "CPLX_NO_STORAGE_FOOD": "ไม่มีอาคารเก็บอาหาร",
+        "CPLX_NO_STORAGE_GENERAL": "ไม่มีอาคารเก็บของใช้ทั่วไป",
+        "CPLX_NO_STORAGE_ICE": "ไม่มีอาคารเก็บน้ำแข็ง",
+        "CPLX_NO_STORAGE_WATER": "ไม่มีอาคารเก็บเครื่องดื่ม",
+        "CPLX_NO_STORAGE_WOOD": "ไม่มีอาคารเก็บไม้",
         "CPLX_PROD_BREWERY_SMALL_1NAME": "โรงเบียร์ขั้นพื้นฐาน",
         "CPLX_PROD_BREWERY_SMALL_2DESC": "อาคารผลิต ใช้ในการต้มข้าว ทำส่วนผสมในการหมัก และกลั่นเหล้าสาเก อนุญาตให้ใช้เฟอร์นิเจอร์เช่น ถังต้มข้าว ถังหมัก และเครื่องกรองกาก สามารถจ่ายงานให้คนทำอาหารได้",
         "CPLX_PROD_FISHERMAN_1NAME": "กระท่อมชาวประมง",
@@ -193,7 +193,7 @@
         "CPLX_STORAGE_GENERAL_2DESC": "คลังประจำตระกูล ที่แต่ละหมู่บ้านต้องมีเพื่อการประดิษฐ์ หรือจัดเก็บทรัพยากรต่าง ๆ เครื่องมือ และไอเทม ที่ได้จากการผลิดของวงศ์ตระกูล สถานที่ทำงานบางแห่งต้องการคลังนี้ในการจัดเก็บอุปกรณ์",
         "CPLX_STORAGE_ICE_1NAME": "คลังเก็บน้ำแข็ง",
         "CPLX_STORAGE_ICE_2DESC": "คลังประจำตระกูล ที่แต่ละหมู่บ้านต้องมีเพื่อการเก็บเกี่ยว หรือจัดเก็บน้ำแข็งและผลิตภัณฑ์ที่เกี่ยวข้อง ที่ได้จากการผลิดของวงศ์ตระกูล",
-        "CPLX_STORAGE_WATER_1NAME": "คลังเก็บน้ำ",
+        "CPLX_STORAGE_WATER_1NAME": "คลังเก็บเครื่องดื่ม",
         "CPLX_STORAGE_WATER_2DESC": "คลังประจำตระกูล ที่แต่ละหมู่บ้านต้องมีเพื่อการประดิษฐ์ หรือจัดเก็บน้ำ เครื่องดื่ม และผลิตภัณฑ์ที่เป็นของเหลว ที่ได้จากการผลิดของวงศ์ตระกูล",
         "CPLX_STORAGE_WOOD_1NAME": "คลังเก็บไม้",
         "CPLX_STORAGE_WOOD_2DESC": "คลังประจำตระกูล ที่แต่ละหมู่บ้านต้องมีเพื่อประดิษฐ์และจัดเก็บแท่งไม้ ท่อนซุง ฝืน ไม้กระดาน และผลิตภัณฑ์เกี่ยวกับไม้ ที่ได้จากการผลิดของวงศ์ตระกูล"
@@ -257,7 +257,7 @@
         "FRN_CRAFTING_WOODWORKING_2DESC": "สถานีงานหัตถกรรม ช่วยให้สามารถประดิษฐ์สิ่งของจากไม้ได้ สามารถจัดงานให้กับช่างไม้ได้",
         "FRN_LAMP_FLOOR_1NAME": "โคมไฟตั้งพื้น",
         "FRN_LAMP_FLOOR_2DESC": "แหล่งกำเนิดแสง โคมไฟกระดาษตั้งพื้นแบบเรียบง่าย",
-        "FRN_STORAGE_ARMORY_1NAME": "คลังอาวุธประจำตระกูล",
+        "FRN_STORAGE_ARMORY_1NAME": "เข้าถึงคลังอาวุธประจำตระกูล",
         "FRN_STORAGE_ARMORY_2DESC": "ภาชนะเก็บของประจำตระกูล อนุญาตให้เข้าถึงคลังแสงที่ใช้ร่วมกันในการจัดเก็บ อาวุธ กระสุน และชุดเกราะ เฉพาะสิ่งของที่เก็บไว้ที่นี่เท่านั้นที่สามารถนำไปใช้ในการผลิตของตระกูลได้ รวมไปถึงของที่ชาวบ้านจำเป็นต้องบริโภคด้วย",
         "FRN_STORAGE_FOOD_1NAME": "คลังอาหารประจำตระกูล",
         "FRN_STORAGE_FOOD_2DESC": "ภาชนะเก็บของประจำตระกูล อนุญาตให้เข้าถึงคลังเก็บอาหารที่ใช้ร่วมกันในการจัดเก็บ สิ่งของอุปโภคบริโภคต่าง ๆ เช่น สมุนไพร อาหาร พืช และผลิตภัณฑ์อื่น ๆ ที่เกี่ยวข้องกับอาหาร เฉพาะสิ่งของที่เก็บไว้ที่นี่เท่านั้นที่สามารถนำไปใช้ในการผลิตของตระกูลได้ รวมไปถึงของที่ชาวบ้านจำเป็นต้องบริโภคด้วย",
@@ -284,7 +284,9 @@
         "FRN_WORKSTATION_TANNING_1NAME": "ถังฟอกหนัง",
         "FRN_WORKSTATION_TANNING_2DESC": "สถานีผลิต ถังฟอกหนังทำจากดินเหนียว ใช้เปลือกไม้กับน้ำ เพื่อเปลี่ยนขนสัตว์เป็นหนัง ชาวบ้านที่ได้รับมอบหมายให้ทำงานนี้ จะกลายเป็นช่างฝีมือ",
         "FRN_WORKSTATION_TATARA_1NAME": "ตาตาระ (เตาหลอม)",
-        "FRN_WORKSTATION_TATARA_2DESC": "สถานีผลิต เตาทาทาระ ใช้แร่เหล็กกับถ่าน นำมาหลอมเป็นเหล็กกล้า ชาวบ้านที่ได้รับมอบหมายให้ทำงานนี้ จะกลายเป็นช่างตีเหล็ก"
+        "FRN_WORKSTATION_TATARA_2DESC": "สถานีผลิต เตาทาทาระ ใช้แร่เหล็กกับถ่าน นำมาหลอมเป็นเหล็กกล้า ชาวบ้านที่ได้รับมอบหมายให้ทำงานนี้ จะกลายเป็นช่างตีเหล็ก",
+        "FRN_SUNKENHEARTHPOT_2DESC": "Cooking station. A sunken hearth known as irori is an indoor fireplace that allows the cooking of advanced meals and medicine. Can host cook jobs.",
+        "FRN_SUNKENHEARTHPOT_1NAME": "Sunken Hearth with Cooking Pot"
     },
     "GeneralStringTable": {
         "BUI_MENU_FOUNDNOSERVERS": "ไม่พบเซิร์ฟเวอร์",
@@ -912,7 +914,18 @@
         "GUI_WEATHER_WINDY": "ลมแรง",
         "GUI_WORKPLACE": "ที่ทำงาน",
         "GUI_WORKPLACE_LIST": "รายการสถานที่ทำงาน",
-        "GUI_YOU": "คุณ"
+        "GUI_YOU": "คุณ",
+        "GUI_MENU_TAKESLONGERTHANUSUAL": "(it takes longer than usual)",
+        "GUI_ASSIGN_BED": "Assign bed",
+        "GUI_JOBMANAGEMENT_SP_DL": "Dynasty Legend level: +{SP_DL_Reward}",
+        "GUI_MENU_DEATH_FOOD": "Food lost: {FOOD_LOST_VALUE}",
+        "GUI_MENU_DEATH_MONEY": "Money lost: {MONEY_LOST_VALUE}",
+        "GUI_MAP_PAN": "Pan Map",
+        "GUI_MAP_PLACE_MARKER": "Place/Remove Custom Marker",
+        "GUI_JOBMANAGEMENT_SP_TIMEREMAINING": "Season(s) remaining until the special project is completed: {SPCompletionTime}",
+        "GUI_JOBMANAGEMENT_SP_REWARDS": "Special Project Completion Rewards",
+        "GUI_ACTION_STOREALL": "Store all",
+        "GUI_STATUS_TRUNK_BAMBOO": "Use shovel or axe to get bamboo"
     },
     "ItemDetailsStringTable": {
         "IN_BEVERAGES": "ความต้องการชาวบ้าน (เครื่องดื่ม):",
@@ -1388,7 +1401,13 @@
         "ITEM_WEAPON_SPEAR_T2_1NAME": "โอมิ ยาริ",
         "ITEM_WEAPON_SPEAR_T2_2DESC": "หอกที่เหมาะสำหรับการล่าสัตว์ และการต่อสู้ซึ่งมีใบมีดเหล็กกล้าที่ยาวมาก",
         "ITEM_WEAPON_SPEAR_T3_1NAME": "จูมนจิ ยาริ",
-        "ITEM_WEAPON_SPEAR_T3_2DESC": "อาวุธที่เหมาะสำหรับการล่าสัตว์ และการต่อสู้ซึ่งมีปลายเหล็กกล้าที่คมสุด ๆ"
+        "ITEM_WEAPON_SPEAR_T3_2DESC": "อาวุธที่เหมาะสำหรับการล่าสัตว์ และการต่อสู้ซึ่งมีปลายเหล็กกล้าที่คมสุด ๆ",
+        "ANYITEM_HOE_2DESC": "A hoe of any quality.",
+        "ANYITEM_SHOVEL_2DESC": "A shovel of any quality.",
+        "ANYITEM_KAMA_2DESC": "A sickle of any quality.",
+        "ANYITEM_HOE_1NAME": "Any Hoe",
+        "ANYITEM_KAMA_1NAME": "Any Kama",
+        "ANYITEM_SHOVEL_1NAME": "Any Shovel"
     },
     "JobsStringTable": {
         "JOB_BLACKSMITH": "ช่างตีเหล็ก",
@@ -1535,7 +1554,22 @@
         "SP_WATCHTOWER_NAME": "โครงการพิเศษหอสังเกตการณ์",
         "VILLAGE_ARATANI": "อาราตานิ",
         "VILLAGE_IWASAKI": "อิวาซากิ",
-        "VILLAGE_SEGI": "เซกิ"
+        "VILLAGE_SEGI": "เซกิ",
+        "SP_RICEFIELD_2DESC": "A large rice field built on a relatively flat and dry land, irrigated by a river water delivered by a mill.\n\nBuild a Special Project Construction Workshop nearby (Basic Structures, unlock recipe by following main quests) to start the process.",
+        "SP_LIGHTHOUSE_2DESC": "Completion will restore the lighthouse and increase your Dynasty Legend level.\n\nBuild a Special Project Construction Workshop nearby (Basic Structures, unlock recipe by following main quests) to start the process.",
+        "SP_BRIDGE_ROPE_2DESC": "Completion will restore the rope bridge and increase your Dynasty Legend level.\n\nBuild a Special Project Construction Workshop nearby (Basic Structures, unlock recipe by following main quests) to start the process.",
+        "SP_BRIDGE_LARGE_REWARD": "Denizens of Nata Valley will be grateful for restoring this large bridge. Not only will it allow you to cross the river without getting wet, but it will also improve the local economy and allow traders to reach this area. It is a noteworthy infrastructure project that will provide benefits for years.",
+        "SP_BRIDGE_ROPE_REWARD": "Denizens of Nata Valley will be grateful for restoring this rope bridge. It will allow you and the locals to reach new areas more effortlessly. It is a highly demanded infrastructure project that will provide benefits for years.",
+        "SP_SMALLBRIDGE_REWARD": "Denizens of Nata Valley will be grateful for restoring this small bridge. Not only will it allow you to cross the stream without getting wet, but it will also improve the local economy and allow traders to reach this area. It is a useful infrastructure project that will provide benefits for years.",
+        "SP_RICEFIELD_1NAME": "Irrigated Rice Field",
+        "SP_RICEFIELD_3DISPLAY": "Irrigated Rice Field Special Project",
+        "SP_LIGHTHOUSE_1NAME": "Lighthouse",
+        "SP_LIGHTHOUSE_3DISPLAY": "Lighthouse Special Project",
+        "SP_MININGSTATION_REWARD": "Mass iron ore production requires your villagers to refine massive amounts of rocks and ore. Trip hammers powered by the water mill speed up this process significantly. It is a crucial infrastructure for you dynasty.\n\nThis mining station serves as an iron ore motherlode. Workers from your nearby village will operate it to produce iron ore when assigned jobs in Mining Posts, and in the Mining Station itself.",
+        "SP_BRIDGE_ROPE_1NAME": "Rope Bridge",
+        "SP_BRIDGE_ROPE_3DISPLAY": "Rope Bridge Special Project",
+        "SP_WATCHTOWER_REWARD": "The safety of your dynasty relies on information. This watchtower will provide an excellent overview of the local area and can serve as an early warning system for nearby villages.",
+        "SP_RICEFIELD_REWARD": "These fields will allow workers from a nearby village to farm large amounts of rice."
     },
     "ManagementStringTable": {
         "DM_NEED_BEVERAGES": "เครื่องดื่ม",
@@ -1902,7 +1936,13 @@
         "NOTIF_SK_SEASON_SUMMER": "ฤดูร้อน",
         "NOTIF_SK_SEASON_WINTER": "ฤดูหนาว",
         "NOTIF_SK_SHRINE_INARI_CHANGE": "ระดับของพรที่ได้รับจากอินาริ: {shrine level}",
-        "NOTIF_SK_SHRINE_JIZO_CHANGE": "ระดับของพรที่ได้รับจากจีโซ: {shrine level}"
+        "NOTIF_SK_SHRINE_JIZO_CHANGE": "ระดับของพรที่ได้รับจากจีโซ: {shrine level}",
+        "NOTIF_MIN_DISCOVERED_BOAR": "Animal location discovered: boars",
+        "NOTIF_MIN_DISCOVERED_DEER": "Animal location discovered: deer",
+        "NOTIF_MIN_DISCOVERED_FOX": "Animal location discovered: foxes",
+        "NOTIF_MIN_DISCOVERED_HARE": "Animal location discovered: hares",
+        "NOTIF_MIN_SAVE_FAILED": "Save failed, please retry!",
+        "NOTIF_MIN_MANY_CUSTOM_MARKERS": "Too many custom markers, remove an existing marker first!"
     },
     "NPCCategoryStringTable": {
         "NPCCAT_ABBOT": "เจ้าอาวาส",
@@ -2210,7 +2250,8 @@
         "TREE_PRUNUS_SARGENTII_CORE": "ซากุระ (ไม้ผล)",
         "TREE_PRUNUS_SARGENTII_STUMP": "ตอซากุระ(ไม้ผล)",
         "TREE_ULMUS_DAVIDIANA_CORE": "เอล์ม (ไม้ผลัดใบคุณภาพสูง)",
-        "TREE_ULMUS_DAVIDIANA_STUMP": "ตอเอล์ม (ไม้ผลัดใบคุณภาพสูง)"
+        "TREE_ULMUS_DAVIDIANA_STUMP": "ตอเอล์ม (ไม้ผลัดใบคุณภาพสูง)",
+        "DEPOSIT_TREE_MEDIUM": "Medium Tree"
     },
     "RMCATStringTable": {
         "RMCAT_BLACKSMITH_ADZE_1NAME": "ผึ่งถากไม้",
