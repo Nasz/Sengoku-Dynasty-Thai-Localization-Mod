@@ -474,8 +474,8 @@
     "LocationsStringTable": {
         "BLESSING_LEVEL1": "ความเร็วในการออกวิ่งเพิ่มขึ้น 10%",
         "BLESSING_LEVEL2": "ความเร็วในการออกวิ่งเพิ่มขึ้น 10% ความเร็วในการเคลื่อนไหวเพิ่มขึ้น 10%",
-        "BLESSING_LEVEL3": "ความเร็วในการออกวิ่งเพิ่มขึ้น 10% ความเร็วในการเคลื่อนไหวเพิ่มขึ้น 10% ลดการใช้ค่าความแข็งแกร่งลง 10%",
-        "BLESSING_LEVEL4": "ความเร็วในการออกวิ่งเพิ่มขึ้น 10% ความเร็วในการเคลื่อนไหวเพิ่มขึ้น 10% ความเร็วในการฟื้นฟูค่าความแข็งแกร่งเพิ่มขึ้น 10%",
+        "BLESSING_LEVEL3": "ความเร็วในการออกวิ่งเพิ่มขึ้น 10% ความเร็วในการเคลื่อนไหวเพิ่มขึ้น 10% ลดการใช้ค่ากำลังกายลง 10%",
+        "BLESSING_LEVEL4": "ความเร็วในการออกวิ่งเพิ่มขึ้น 10% ความเร็วในการเคลื่อนไหวเพิ่มขึ้น 10% ความเร็วในการฟื้นฟูค่ากำลังกายเพิ่มขึ้น 10%",
         "CONTAINER": "ภาชนะเก็บของ",
         "DYNASTY_STORAGE": "คลังเก็บของประจำตระกูล",
         "LODE_CLAY": "แหล่งดินเหนียว",
@@ -1196,7 +1196,16 @@
         "GUI_WEATHER_WINDY": "ลมแรง",
         "GUI_WORKPLACE": "ที่ทำงาน",
         "GUI_WORKPLACE_LIST": "รายการสถานที่ทำงาน",
-        "GUI_YOU": "คุณ"
+        "GUI_YOU": "คุณ",
+        "GUI_MENU_CHEAT_POPUP": "เปิดใช้งานสูตรโกง",
+        "GUI_MENU_ENABLECHEATS": "เปิดใช้งานสูตรโกง / ปิดการใช้งานรางวัลความสำเร็จ",
+        "GUI_MENU_CHEAT_BUILDFAST": "การสร้างอย่างรวดเร็ว (การส่งมอบทรัพยากร)",
+        "GUI_MENU_CHEAT_INFINITEHP": "HP นิรันดร",
+        "GUI_MENU_CHEAT_INFINITESTAMINA": "กำลังกายนิรันดร",
+        "GUI_MENU_CHEAT_BUILDINSTANT": "การสร้างทันที (ใช้ทรัพยากรชิ้นเดียวต่อโครงสร้าง)",
+        "GUI_MENU_SHOWTUTORIAL": "แสดงบทช่วยสอน",
+        "GUI_MENU_CHEAT_UNLOCKALLRECIPES": "ปลดล็อกสูตรทั้งหมด (ไม่สามารถยกเลิกได้)",
+        "GUI_MENU_CHEAT_POPUPDESC": "การเล่นเกมผ่านเซฟเกมนี้จะไม่มีสิทธิ์ได้รับการปลดล็อครางวัลความสำเร็จใหม่อีกต่อไป เมื่อเลือกแล้วจะไม่สามารถยกเลิกได้ คุณแน่ใจหรือไม่ว่าต้องการเปิดใช้งานสูตรโกง?"
     },
     "ComplexStructuresStringTable": {
         "CPLX_HOUSE_LARGE_1NAME": "บ้านหลังใหญ่",
@@ -1949,7 +1958,7 @@
         "NOTIF_MIN_CIVATTACK_6": "เป้าหมายนี้ไม่สามารถโจมตีได้!",
         "NOTIF_MIN_DISCOVERED_BOAR": "ค้นพบตำแหน่งของสัตว์: หมูป่า",
         "NOTIF_MIN_DISCOVERED_DEER": "ค้นพบตำแหน่งของสัตว์: กวาง",
-        "NOTIF_MIN_DISCOVERED_FOX": "ค้นพบตำแหน่งของสัตว์: หมาป่า",
+        "NOTIF_MIN_DISCOVERED_FOX": "ค้นพบตำแหน่งของสัตว์: จิ้งจอก",
         "NOTIF_MIN_DISCOVERED_HARE": "ค้นพบตำแหน่งของสัตว์: กระต่าย",
         "NOTIF_MIN_MANY_CUSTOM_MARKERS": "ทำเครื่องหมายที่กำหนดเองไว้ มากเกินไป โปรดลบเครื่องหมายที่มีอยู่ออกก่อน!",
         "NOTIF_MIN_SAVE_FAILED": "เซฟล้มเหลว โปรดลองอีกครั้ง!",
@@ -2118,7 +2127,7 @@
         "NOTIF_SK_DIALOGUE_WIDGET_RELATIONSHIP4": "เธอชอบคุณ {more details}",
         "NOTIF_SK_MASTER_GAMEPLAY_STATUS_CHANGE": "{Status Effect Details}",
         "NOTIF_SK_PLAYER_STATS_HP_GAIN": "+10 HP สูงสุด",
-        "NOTIF_SK_PLAYER_STATS_SP_GAIN": "+10 ความอดทนสูงสุด",
+        "NOTIF_SK_PLAYER_STATS_SP_GAIN": "+10 กำลังกายสูงสุด",
         "NOTIF_SK_QUEST_MANAGER_ADDED": "{Quest Name}",
         "NOTIF_SK_QUEST_MANAGER_COMPLETE": "เสร็จสมบูรณ์: {Quest Name}",
         "NOTIF_SK_QUEST_MARKER_ENTRY": "คุณได้เข้าสู่พื้นที่ภารกิจ",
@@ -2317,8 +2326,8 @@
         "PRO_CRFT_LUMBERJACK_NAME": "คนตัดไม้",
         "PRO_CRFT_SKILLEDHAND_DESC": "อัตราการสูญเสียความทนทานของเครื่องมือลดลง 15%",
         "PRO_CRFT_SKILLEDHAND_NAME": "มือที่มีทักษะ",
-        "PRO_CRFT_STRONGGRIP_DESC": "เครื่องมือใช้ค่าความแข็งแกร่งลดลง 20%",
-        "PRO_CRFT_STRONGGRIP_MDESC": "เครื่องมือใช้ค่าความแข็งแกร่งลดลง 20%",
+        "PRO_CRFT_STRONGGRIP_DESC": "เครื่องมือใช้ค่ากำลังกายลดลง 20%",
+        "PRO_CRFT_STRONGGRIP_MDESC": "เครื่องมือใช้ค่ากำลังกายลดลง 20%",
         "PRO_CRFT_STRONGGRIP_NAME": "ด้ามจับที่แข็งแกร่ง",
         "PRO_DYNASTYLEGEND": "ชื่อเสียงวงศ์ตระกูล",
         "PRO_LDR_DIGNITARY_DESC": "ความพยายามคือสิ่งที่คุณต้องจ่าย เพื่อทำให้คุณกลายเป็นคนที่น่าเคารพมากขึ้น การช่วยเหลือผู้อื่นและปรับปรุงชีวิตของพวกเขา จะทำให้คนแปลกหน้าที่เคยเห็นคุณเป็นคนน่าสงสัย เห็นใจคุณมากขึ้น",
@@ -2367,7 +2376,7 @@
         "PRO_WRR_TRACKER_DESC": "ปลดล็อคความสามารถในไฮไลท์เหยื่อ",
         "PRO_WRR_TRACKER_NAME": "แกะรอย",
         "PRO_WRR_VETERAN_DESC": "คุณถืออาวุธอยู่ในมือมาเป็นเวลานานพอที่จะรู้วิธีใช้อาวุธอย่างเหมาะสม คุณจะเหนือยน้อยลงขณะกวัดแกว่งอาวุธ",
-        "PRO_WRR_VETERAN_MDESC": "ลดค่าความแข็งแกร่งในการใช้อาวุธลง 15%",
+        "PRO_WRR_VETERAN_MDESC": "อาวุธใช้ค่ากำลังกายลดลง 15%",
         "PRO_WRR_VETERAN_NAME": "ผู้มากประสบการณ์",
         "PRO_XP": "XP"
     },
@@ -2754,7 +2763,8 @@
         "TUT_45_SPCONSTRUCTION1": "ในการทำโครงการพิเศษให้สำเร็จ ก่อนอื่น ให้ส่งทรัพยากรที่จำเป็นทั้งหมดไปยัง เวิร์คชอปก่อสร้างโครงการพิเศษก่อน จากนั้น โครงการพิเศษจะปรากฏใน 'รายการงาน' ของคุณ มอบหมายคนงานที่จำเป็นทั้งหมด (จำไว้ว่า - คุณสามารถมอบหมายตัวเองได้เสมอ ตราบเท่าที่คุณมี เตียงนอนของตัวเอง) แล้วจากนั้นก็รอสองสามฤดูกาล\n\nโครงการขนาดใหญ่ต้องใช้เวลาหลายฤดูกาลจึงจะเสร็จสมบูรณ์ ตรวจสอบให้แน่ใจว่าในระหว่างนั้น คุณไม่ละเลยความต้องการของชาวบ้าน!",
         "TUT_46_INVENTORY1": "ในหน้าจอตัวละครของคุณ คุณจะพบข้อมูลที่สำคัญเกี่ยวกับตัวคุณ ไอเทมที่หยิบขึ้นมาหรือสร้างขึ้นทั้งหมด จะปรากฏในช่องเก็บของของคุณ\n\nหากต้องการใช้เครื่องมือ อาวุธ หรือวัตถุสิ้นเปลืองโดยผ่านคีย์ลัด ให้ย้ายไปยัง 'ช่องด่วน' เมื่อหอกถูกขว้างออกไป หรือเครื่องมือในมือของคุณแตก มันจะถูกแทนที่ด้วยไอเทมประเภทเดียวกันโดยอัตโนมัติ ตราบใดที่คุณยังมีของสำรองอยู่ในช่องอุปกรณ์",
         "TUT_46_INVENTORY_TITLE1": "ช่องเก็บของ",
-        "TUT_34_NEEDS_FOOD1": "As you have gained your first villager, you have also taken upon yourself a responsibility to take care of their basic needs. Each season, your people will consume various goods stored in the dynasty storage. The consumed amount will expand the more villagers you recruit. For now, your villager will only require meals.\n\nYou have control over how much your villagers consume. Each need can be set to a low or high consumption. Low consumption, if satisfied, maintains villagers' current level of happiness. High consumption will increase happiness by one level and slightly boost the production efficiency per need satisfied. Each need that wasn't satisfied will cause a production efficiency penalty and happiness to drop by two levels."
+        "TUT_34_NEEDS_FOOD1": "เมื่อคุณรับชาวบ้านกลุ่มแรกเข้ามา คุณต้องรับผิดชอบดูแลความต้องการขั้นพื้นฐานต่าง ๆ ของพวกเขาด้วย ในแต่ละฤดูคนของคุณจะบริโภคสินค้าต่าง ๆ ที่เก็บไว้ในคลังเก็บของประจำตระกูล ปริมาณในการบริโภคจะเพิ่มขึ้นตามจำนวนชาวบ้านที่คุณรับเพิ่มเข้ามา ในตอนนี้ชาวบ้านอาจต้องการแค่อาหารเท่านั้น\n\nคุณสามารถควบคุมปริมาณการบริโภคของชาวบ้านได้ ความต้องการแต่ละอย่างสามารถตั้งค่าปริมาณการใช้เป็น ต่ำ หรือ สูง ได้ การตั้งค่าการบริโภคต่ำจะช่วยรักษาระดับความสุขของชาวบ้านในปัจจุบันให้คงที่ แต่หากคุณเลือกเป็นสูง มันจะช่วยเพิ่มความสุขไปได้อีกหนึ่งระดับ ทั้งยังเพิ่มประสิทธิภาพในการสร้างผลผลิตตามความต้องการได้อีกเล็กน้อย เมื่อความต้องการของชาวบ้านไม่ได้รับการตอบสนอง จะทำให้ประสิทธิภาพการผลิตและความสุขของชาวบ้านลดลงสองระดับ",
+        "TUT_34_NEEDS_FOOD_TITLE": "ความต้องการของชาวบ้าน - อาหาร"
     },
     "VillageStructuresStringTable": {
         "VILL_ARCHERYPRACTICE_1NAME": "เป้ายิงธนู",
@@ -2866,5 +2876,21 @@
         "VILL_WORKSTATION_COMPOSTING_2DESC": "เปลี่ยนของเน่าให้กลายเป็นปุ๋ย กระบวนการสำคัญของการทำการเกษตร",
         "VILL_WORKSTATION_DRYINGRACK_1NAME": "ราวตากแห้ง",
         "VILL_WORKSTATION_DRYINGRACK_2DESC": "สำหรับตากแห้งต้นหญ้าเพื่อเปลี่ยนเป็นฟาง"
+    },
+    "SortingStringTable": {
+        "SORT_APLHABETICAL_ASC": "ตามลำดับตัวอักษร (A-Z)",
+        "SORT_APLHABETICAL_DSC": "ตามลำดับตัวอักษร (Z-A)",
+        "SORT_DEFAULT_ASC": "ค่าเริ่มต้น (จากน้อยไปมาก)",
+        "SORT_DEFAULT_DSC": "ค่าเริ่มต้น (จากมากไปน้อย)",
+        "SORT_DURAFRESH_ASC": "ตามความคงทน / ความสด (จากน้อยไปมาก)",
+        "SORT_DURAFRESH_DSC": "ตามความคงทน / ความสด (จากมากไปน้อย)",
+        "SORT_TYPE_ASC": "ตามประเภทรายการ (จากน้อยไปมาก)",
+        "SORT_TYPE_DSC": "ตามประเภทรายการ (จากมากไปน้อย)",
+        "SORT_PRICE_ASC": "ตามราคา (จากน้อยไปมาก)",
+        "SORT_PRICE_DSC": "ตามราคา (จากมากไปน้อย)",
+        "SORT_STORAGE_ASC": "ตามประเภทการจัดเก็บ (จากน้อยไปมาก)",
+        "SORT_STORAGE_DSC": "ตามประเภทการจัดเก็บ (จากมากไปน้อย)",
+        "SORT_NEEDS_ASC": "ตามความต้องการของชาวบ้าน (จากน้อยไปมาก)",
+        "SORT_NEEDS_DSC": "ตามความต้องการของชาวบ้าน (จากมากไปน้อย)"
     }
 }
