@@ -1,6 +1,6 @@
 # Sengoku Dynasty Community Thai Localization
 แปลไทยเกม เซ็นโงคุ ไดนาสตี้ 
-## สถานะการแปล 90.59% (บิลท์ 20231012)
+## สถานะการแปล 91.12% (บิลท์ 20231012)
 **รองรับเกม Early Access เวอร์ชัน 0.1.5.0 12413789-public**
 
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/6ca9ef73-8ea9-40fb-afd8-edba379ef6a5)
