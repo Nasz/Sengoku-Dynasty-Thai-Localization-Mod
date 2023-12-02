@@ -3,9 +3,9 @@
 ## สถานะการแปล 92.27% (บิลท์ 20231202)
 **รองรับเกม Early Access เวอร์ชัน 0.2.0.2 12652580-public**
 
-![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/6ca9ef73-8ea9-40fb-afd8-edba379ef6a5)
-![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/147a48df-50a3-40ba-aaf5-08d427764627)
-![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/7b9c00e8-a9bb-4bd9-9f51-d687990e2e2d)
+![Screenshot 2023-12-02 192553](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/79ac9fe5-e93b-4430-9823-ac59d45ac326)
+![Screenshot 2023-12-02 192613](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/c65a5f32-3d86-4cb2-9a46-76c89db07f0a)
+![Screenshot 2023-12-02 192625](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/f5a6bb37-0c6c-4a57-a337-82903a91a08f)
 
 ###### วิธีติดตั้ง 
 สร้างโฟลเดอร์ ~mods ไว้ใน steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks
