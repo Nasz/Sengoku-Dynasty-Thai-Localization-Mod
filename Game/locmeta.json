@@ -4,17 +4,6 @@
     "resource_name": "Game",
     "main_language": "en",
     "local_languages": [
-        "de",
-        "es",
-        "fr",
-        "ja",
-        "ko",
-        "pl",
-        "pt",
-        "ru",
-        "th",
-        "tr",
-        "uk",
-        "zh"
+        "th"
     ]
 }
